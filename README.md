@@ -12,7 +12,7 @@
 - 支持CDN套用
 - 支持Fallback分流设置
 
-点此进入>>[搭建X-UI视频教程](https://youtu.be/n5koU-pj094)
+ 
 
 ## 准备工作
 
